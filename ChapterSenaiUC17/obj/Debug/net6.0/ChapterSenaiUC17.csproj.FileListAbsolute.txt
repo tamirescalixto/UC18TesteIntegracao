@@ -1,0 +1,84 @@
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\bin\Debug\net6.0\appsettings.json
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\bin\Debug\net6.0\ChapterSenaiUC17.exe
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\bin\Debug\net6.0\ChapterSenaiUC17.deps.json
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\bin\Debug\net6.0\ChapterSenaiUC17.runtimeconfig.json
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\bin\Debug\net6.0\ChapterSenaiUC17.dll
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\bin\Debug\net6.0\ChapterSenaiUC17.pdb
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\obj\Debug\net6.0\ChapterSenaiUC17.csproj.AssemblyReference.cache
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\obj\Debug\net6.0\ChapterSenaiUC17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\obj\Debug\net6.0\ChapterSenaiUC17.AssemblyInfoInputs.cache
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\obj\Debug\net6.0\ChapterSenaiUC17.AssemblyInfo.cs
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\obj\Debug\net6.0\ChapterSenaiUC17.csproj.CoreCompileInputs.cache
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\obj\Debug\net6.0\ChapterSenaiUC17.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\obj\Debug\net6.0\ChapterSenaiUC17.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\obj\Debug\net6.0\scopedcss\bundle\ChapterSenaiUC17.styles.css
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\obj\Debug\net6.0\ChapterSenaiUC17.csproj.CopyComplete
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\obj\Debug\net6.0\ChapterSenaiUC17.dll
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\obj\Debug\net6.0\refint\ChapterSenaiUC17.dll
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\obj\Debug\net6.0\ChapterSenaiUC17.pdb
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\obj\Debug\net6.0\ChapterSenaiUC17.genruntimeconfig.cache
+C:\Users\OI417408\Desktop\UC17 -  Desenvolvimento de APIs\ChapterSenaiUC17\ChapterSenaiUC17\obj\Debug\net6.0\ref\ChapterSenaiUC17.dll
+C:\Users\OI417408\Desktop\UC18EncontroRemoto3\EncontroRemoto4\ChapterSenaiUC17\ChapterSenaiUC17\obj\Debug\net6.0\ChapterSenaiUC17.csproj.AssemblyReference.cache
+C:\Users\OI417408\Desktop\UC18EncontroRemoto3\EncontroRemoto4\ChapterSenaiUC17\ChapterSenaiUC17\obj\Debug\net6.0\ChapterSenaiUC17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OI417408\Desktop\UC18EncontroRemoto3\EncontroRemoto4\ChapterSenaiUC17\ChapterSenaiUC17\obj\Debug\net6.0\ChapterSenaiUC17.AssemblyInfoInputs.cache
+C:\Users\OI417408\Desktop\UC18EncontroRemoto3\EncontroRemoto4\ChapterSenaiUC17\ChapterSenaiUC17\obj\Debug\net6.0\ChapterSenaiUC17.AssemblyInfo.cs
+C:\Users\OI417408\Desktop\UC18EncontroRemoto3\EncontroRemoto4\ChapterSenaiUC17\ChapterSenaiUC17\obj\Debug\net6.0\ChapterSenaiUC17.csproj.CoreCompileInputs.cache
+C:\Users\OI417408\Desktop\UC18EncontroRemoto3\EncontroRemoto4\ChapterSenaiUC17\ChapterSenaiUC17\obj\Debug\net6.0\ChapterSenaiUC17.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\OI417408\Desktop\UC18EncontroRemoto3\EncontroRemoto4\ChapterSenaiUC17\ChapterSenaiUC17\obj\Debug\net6.0\ChapterSenaiUC17.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OI417408\Desktop\UC18EncontroRemoto3\EncontroRemoto4\ChapterSenaiUC17\ChapterSenaiUC17\obj\Debug\net6.0\ChapterSenaiUC17.dll
+C:\Users\OI417408\Desktop\UC18EncontroRemoto3\EncontroRemoto4\ChapterSenaiUC17\ChapterSenaiUC17\obj\Debug\net6.0\refint\ChapterSenaiUC17.dll
+C:\Users\OI417408\Desktop\UC18EncontroRemoto3\EncontroRemoto4\ChapterSenaiUC17\ChapterSenaiUC17\obj\Debug\net6.0\ChapterSenaiUC17.pdb

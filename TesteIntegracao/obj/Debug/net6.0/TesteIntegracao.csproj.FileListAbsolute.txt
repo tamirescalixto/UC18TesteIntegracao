@@ -1,0 +1,6 @@
+C:\Users\OI417408\Desktop\UC18EncontroRemoto3\EncontroRemoto4\ChapterSenaiUC17\TesteIntegracao\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\OI417408\Desktop\UC18EncontroRemoto3\EncontroRemoto4\ChapterSenaiUC17\TesteIntegracao\obj\Debug\net6.0\TesteIntegracao.csproj.AssemblyReference.cache
+C:\Users\OI417408\Desktop\UC18EncontroRemoto3\EncontroRemoto4\ChapterSenaiUC17\TesteIntegracao\obj\Debug\net6.0\TesteIntegracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OI417408\Desktop\UC18EncontroRemoto3\EncontroRemoto4\ChapterSenaiUC17\TesteIntegracao\obj\Debug\net6.0\TesteIntegracao.AssemblyInfoInputs.cache
+C:\Users\OI417408\Desktop\UC18EncontroRemoto3\EncontroRemoto4\ChapterSenaiUC17\TesteIntegracao\obj\Debug\net6.0\TesteIntegracao.AssemblyInfo.cs
+C:\Users\OI417408\Desktop\UC18EncontroRemoto3\EncontroRemoto4\ChapterSenaiUC17\TesteIntegracao\obj\Debug\net6.0\TesteIntegracao.csproj.CoreCompileInputs.cache
